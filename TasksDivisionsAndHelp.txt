@@ -13,11 +13,21 @@ Pujan:
 
 Vedant :
 1)Collect data, scrapping the internet for a good dataset.(keywords will be provided)
-2)Assist the team in Data analysis.
+2)Assist the team in Data analysis.(Learning R language)
 3)Thinking on how to present our solution.
 
 Rutvik :
 1)Collect data, scrapping the internet for a good dataset.(keywords will be provided)
-2)Assist the team with data analysis.
+2)Assist the team with data analysis.(learning R language)
 3)Thinking on the impact of the solution.
 
+
+To Learn R language see examples by :
+https://github.com/PacktPublishing/R-Programming-By-Example
+
+Steps to practice R on PC :
+1)Download R version 3.6.1 from https://cran.r-project.org/bin/windows/base/
+2)Download R Studio free version from https://rstudio.com/products/rstudio/download/#download
+3)Download the github repo https://github.com/PacktPublishing/R-Programming-By-Example for examples.
+4)Read about data frames online.
+5)Tweak examples a bit to get an idea.
