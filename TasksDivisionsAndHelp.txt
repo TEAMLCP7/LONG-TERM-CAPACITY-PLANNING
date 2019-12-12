@@ -31,3 +31,4 @@ Steps to practice R on PC :
 3)Download the github repo https://github.com/PacktPublishing/R-Programming-By-Example for examples.
 4)Read about data frames online.
 5)Tweak examples a bit to get an idea.
+6)Watch YouTube Tutorials
